@@ -1,3 +1,3 @@
 function ohayou(){
-    alert("あほ")
+    alert("やったぜ！")
 }
